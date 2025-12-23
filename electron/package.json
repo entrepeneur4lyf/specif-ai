@@ -55,7 +55,7 @@
     "electron-updater": "^6.3.9",
     "express": "^4.21.0",
     "jsonrepair": "^3.12.0",
-    "langchain": "^0.3.19",
+    "langchain": "^0.3.37",
     "langfuse": "^3.37.0",
     "openai": "^4.87.4",
     "zod": "^3.24.2"
