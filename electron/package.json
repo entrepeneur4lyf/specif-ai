@@ -47,7 +47,7 @@
     "@langchain/aws": "^0.1.7",
     "@langchain/core": "^0.3.43",
     "@sentry/electron": "^5.3.0",
-    "axios": "^1.7.7",
+    "axios": "^1.13.5",
     "dotenv": "^16.4.7",
     "electron-notarize": "^1.2.2",
     "electron-squirrel-startup": "^1.0.1",
